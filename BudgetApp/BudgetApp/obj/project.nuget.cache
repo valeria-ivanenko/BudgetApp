@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vvdNsBEsHNT7CDqZ2bTajX/924VwYmvKmDhAZAtpwk7A5bU0zactC7WMga01xEjr7ptZOkodLrtEljViUZiFLQ==",
+  "dgSpecHash": "6ckdrtJasSit+b3TvtyzX4ssItrVVDX174kWmDHYuqB6viey+LVqpYgcYIeKp0r7ydDKqz4e5lPQ9OE0Rz6QPA==",
   "success": true,
-  "projectFilePath": "/Users/polzovatel/Desktop/KMA/C#/BudgetApp/BudgetApp/BudgetApp.csproj",
+  "projectFilePath": "/Users/polzovatel/Projects/BudgetApp/BudgetApp/BudgetApp/BudgetApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

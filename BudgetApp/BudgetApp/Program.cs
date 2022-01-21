@@ -11,7 +11,7 @@ namespace BudgetApp
             var budget = new Budget();
             budget.AddTransaction(89.1);
             List<double> transactions = new List<double> { 27.3, 4.8, 384.486 };
-            var result = 0.0;
+            var result = 0.5;
             foreach (double transaction in transactions) {
                 result += transaction;
             }

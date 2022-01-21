@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/polzovatel/Desktop/KMA/C#/BudgetApp/BudgetApp/BudgetApp.csproj": {}
+    "/Users/polzovatel/Projects/BudgetApp/BudgetApp/BudgetApp/BudgetApp.csproj": {}
   },
   "projects": {
-    "/Users/polzovatel/Desktop/KMA/C#/BudgetApp/BudgetApp/BudgetApp.csproj": {
+    "/Users/polzovatel/Projects/BudgetApp/BudgetApp/BudgetApp/BudgetApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/polzovatel/Desktop/KMA/C#/BudgetApp/BudgetApp/BudgetApp.csproj",
+        "projectUniqueName": "/Users/polzovatel/Projects/BudgetApp/BudgetApp/BudgetApp/BudgetApp.csproj",
         "projectName": "BudgetApp",
-        "projectPath": "/Users/polzovatel/Desktop/KMA/C#/BudgetApp/BudgetApp/BudgetApp.csproj",
+        "projectPath": "/Users/polzovatel/Projects/BudgetApp/BudgetApp/BudgetApp/BudgetApp.csproj",
         "packagesPath": "/Users/polzovatel/.nuget/packages/",
-        "outputPath": "/Users/polzovatel/Desktop/KMA/C#/BudgetApp/BudgetApp/obj/",
+        "outputPath": "/Users/polzovatel/Projects/BudgetApp/BudgetApp/BudgetApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/polzovatel/.config/NuGet/NuGet.Config"
