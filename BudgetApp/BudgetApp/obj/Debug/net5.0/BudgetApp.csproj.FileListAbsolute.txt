@@ -1,0 +1,15 @@
+/Users/polzovatel/Desktop/KMA/C#/BudgetApp/BudgetApp/bin/Debug/net5.0/BudgetApp.deps.json
+/Users/polzovatel/Desktop/KMA/C#/BudgetApp/BudgetApp/bin/Debug/net5.0/BudgetApp.runtimeconfig.json
+/Users/polzovatel/Desktop/KMA/C#/BudgetApp/BudgetApp/bin/Debug/net5.0/BudgetApp.runtimeconfig.dev.json
+/Users/polzovatel/Desktop/KMA/C#/BudgetApp/BudgetApp/bin/Debug/net5.0/BudgetApp.dll
+/Users/polzovatel/Desktop/KMA/C#/BudgetApp/BudgetApp/bin/Debug/net5.0/ref/BudgetApp.dll
+/Users/polzovatel/Desktop/KMA/C#/BudgetApp/BudgetApp/bin/Debug/net5.0/BudgetApp.pdb
+/Users/polzovatel/Desktop/KMA/C#/BudgetApp/BudgetApp/obj/Debug/net5.0/BudgetApp.csproj.AssemblyReference.cache
+/Users/polzovatel/Desktop/KMA/C#/BudgetApp/BudgetApp/obj/Debug/net5.0/BudgetApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/polzovatel/Desktop/KMA/C#/BudgetApp/BudgetApp/obj/Debug/net5.0/BudgetApp.AssemblyInfoInputs.cache
+/Users/polzovatel/Desktop/KMA/C#/BudgetApp/BudgetApp/obj/Debug/net5.0/BudgetApp.AssemblyInfo.cs
+/Users/polzovatel/Desktop/KMA/C#/BudgetApp/BudgetApp/obj/Debug/net5.0/BudgetApp.csproj.CoreCompileInputs.cache
+/Users/polzovatel/Desktop/KMA/C#/BudgetApp/BudgetApp/obj/Debug/net5.0/BudgetApp.dll
+/Users/polzovatel/Desktop/KMA/C#/BudgetApp/BudgetApp/obj/Debug/net5.0/ref/BudgetApp.dll
+/Users/polzovatel/Desktop/KMA/C#/BudgetApp/BudgetApp/obj/Debug/net5.0/BudgetApp.pdb
+/Users/polzovatel/Desktop/KMA/C#/BudgetApp/BudgetApp/obj/Debug/net5.0/BudgetApp.genruntimeconfig.cache
